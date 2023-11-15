@@ -1,31 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://github.com/ESC-ENOC/esc-enoc.github.io/news/index.html</loc>
-    <lastmod>2023-11-15T17:22:00.569Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/ESC-ENOC/esc-enoc.github.io/about.html</loc>
-    <lastmod>2023-11-15T17:21:59.905Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/ESC-ENOC/esc-enoc.github.io/index.html</loc>
-    <lastmod>2023-11-15T17:21:59.377Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/ESC-ENOC/esc-enoc.github.io/how-to/index.html</loc>
-    <lastmod>2023-11-15T17:21:58.393Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/ESC-ENOC/esc-enoc.github.io/how-to/open-access.html</loc>
-    <lastmod>2023-11-15T17:21:59.101Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/ESC-ENOC/esc-enoc.github.io/join.html</loc>
-    <lastmod>2023-11-15T17:21:59.629Z</lastmod>
+    <loc>https://github.com/ESC-ENOC/esc-enoc.github.io/news/data-sharing-webinar.html</loc>
+    <lastmod>2023-11-15T17:33:33.448Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/ESC-ENOC/esc-enoc.github.io/terms-of-reference.html</loc>
-    <lastmod>2023-11-15T17:22:00.325Z</lastmod>
+    <lastmod>2023-11-15T17:33:32.888Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/ESC-ENOC/esc-enoc.github.io/join.html</loc>
+    <lastmod>2023-11-15T17:33:32.208Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/ESC-ENOC/esc-enoc.github.io/how-to/open-access.html</loc>
+    <lastmod>2023-11-15T17:33:31.684Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/ESC-ENOC/esc-enoc.github.io/how-to/index.html</loc>
+    <lastmod>2023-11-15T17:33:30.976Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/ESC-ENOC/esc-enoc.github.io/index.html</loc>
+    <lastmod>2023-11-15T17:33:31.952Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/ESC-ENOC/esc-enoc.github.io/about.html</loc>
+    <lastmod>2023-11-15T17:33:32.484Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/ESC-ENOC/esc-enoc.github.io/news/index.html</loc>
+    <lastmod>2023-11-15T17:33:33.164Z</lastmod>
   </url>
 </urlset>
