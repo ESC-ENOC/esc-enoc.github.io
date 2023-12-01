@@ -1,8 +1,9 @@
 [
   {
-    "listing": "/index.html",
+    "listing": "/news/index.html",
     "items": [
-      "/news/data-sharing-webinar.html"
+      "/news/data-sharing-webinar.html",
+      "/news/data-sharing-webinar-recording.html"
     ]
   },
   {
@@ -12,8 +13,9 @@
     ]
   },
   {
-    "listing": "/news/index.html",
+    "listing": "/index.html",
     "items": [
+      "/news/data-sharing-webinar-recording.html",
       "/news/data-sharing-webinar.html"
     ]
   }
