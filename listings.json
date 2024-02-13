@@ -1,24 +1,26 @@
 [
   {
-    "listing": "/news/index.html",
-    "items": [
-      "/news/esc-newsletter.html",
-      "/news/data-sharing-webinar.html",
-      "/news/data-sharing-webinar-recording.html"
-    ]
-  },
-  {
     "listing": "/index.html",
     "items": [
       "/news/data-sharing-webinar.html",
       "/news/data-sharing-webinar-recording.html",
-      "/news/esc-newsletter.html"
+      "/news/esc-newsletter.html",
+      "/news/open-science-criminology-workshop.html"
     ]
   },
   {
     "listing": "/how-to/index.html",
     "items": [
       "/how-to/open-access.html"
+    ]
+  },
+  {
+    "listing": "/news/index.html",
+    "items": [
+      "/news/esc-newsletter.html",
+      "/news/data-sharing-webinar.html",
+      "/news/data-sharing-webinar-recording.html",
+      "/news/open-science-criminology-workshop.html"
     ]
   }
 ]
