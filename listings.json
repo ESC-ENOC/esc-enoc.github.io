@@ -5,15 +5,7 @@
       "/news/data-sharing-webinar-recording.html",
       "/news/data-sharing-webinar.html",
       "/news/esc-newsletter.html",
-      "/news/open-science-criminology-workshop.html"
-    ]
-  },
-  {
-    "listing": "/index.html",
-    "items": [
-      "/news/data-sharing-webinar.html",
-      "/news/data-sharing-webinar-recording.html",
-      "/news/esc-newsletter.html",
+      "/news/eurocrim2024.html",
       "/news/open-science-criminology-workshop.html"
     ]
   },
@@ -22,6 +14,16 @@
     "items": [
       "/how-to/registered reports.html",
       "/how-to/open-access.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/news/data-sharing-webinar.html",
+      "/news/data-sharing-webinar-recording.html",
+      "/news/esc-newsletter.html",
+      "/news/open-science-criminology-workshop.html",
+      "/news/eurocrim2024.html"
     ]
   }
 ]
