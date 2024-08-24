@@ -1,0 +1,43 @@
+---
+title: "Activities of the European Network for Open Criminology for EUROCRIM2024"
+date: 2024-08-24
+description: "Advancing open research at the 24th Annual Conference of the European Society of Criminology"
+---
+
+The **European Network for Open Criminology** has organised a series of activities at the upcoming **[EUROCRIM2024](https://www.eurocrim2024.com/)**, the *24th Annual Conference of the European Society of Criminology*, which will take place in Bucharest, Romania, from September 11th to September 14th.
+
+
+**1. Annual Meeting of the European Network for Open Criminology**
+
+*Wednesday, September 11, 3:00 to 5:00pm, Room 2.09*
+
+This meeting will be dedicated to discussing ENOC's progress and activities during our first year, as well as setting objectives for this academic year. We will send the agenda with all members of ENOC before the meeting.
+
+
+**2. Roundtable ‘Academic Publishing and Open Research in Criminology’**
+
+*Thursday, September 12, 2:30 to 3:45pm Place: Faculty of Law, University of Bucharest, 2nd floor - Library - reading room 1*
+
+This roundtable brings together editors and editors-in-chief of criminology journals to explore the evolving landscape of academic publishing in criminology. As the field embraces transparency and accessibility, this forum addresses key themes crucial to fostering open research and open access practices. The roundtable will explore the pros and cons, the strengths and limitations, and the practicalities of various open research frameworks and their application in criminology. Namely, we will invite participants to share their perspectives on the following themes: (a) open data – quantitative and qualitative – and open analytic code; (b) pre-registrations, registered reports, and null findings; (c) open peer review; and (d) open access, pre-publications, and post-publications. The following editors and editors-in-chief of criminology journals will participate in this roundtable: Matthew Ashby, Editor of *[‘Crime Science’](https://crimesciencejournal.biomedcentral.com/)*; Loraine Gelsthorpe, Editor-in-Chief of *[‘Criminology and Criminal Justice’](https://journals.sagepub.com/home/crj)*; Emily Gray, Editor of *[‘The British Journal of Criminology’](https://academic.oup.com/bjc)*; Ernesto Savona, Editor-in-Chief of *[‘European Journal on Criminal Policy and Research’](https://link.springer.com/journal/10610)*; Volkan Topalli, Editor-in-Chief of *[‘Criminology’](https://onlinelibrary.wiley.com/journal/17459125)*; and Kyle Treiber, Editor-in-Chief of the *[‘European Journal of Criminology’](https://journals.sagepub.com/home/euc)*. The roundtable will illuminate best practices and strategies for advancing open research and academic publishing in criminology. By fostering collaboration among editors and scholars, this forum seeks to catalyse meaningful transformations in the openness, dissemination and accessibility of criminological knowledge. This roundtable is organised by the *European Network for Open Criminology*.
+
+
+**3. Roundtable on open research practices: pre-registration and registered reports**
+
+*Friday, September 13, 3:30 to 4:45pm, Faculty of Law, University of Bucharest, Floor: 1st floor, Room 2.10*
+
+This roundtable brings together researchers with experience in open research practices to provide an introduction and discuss the benefits of pre-registration and registered reports. As criminology begins to adopt more open research principles, it is important to facilitate discussion about what these practices entail and how we can best incorporate them into our own research processes. This roundtable will focus on two key practices that aim to increase transparency and enhance the quality of research methodology as well as results: 1) pre-registration and 2) registered reports. Pre-registration refers to the time-stamped (online) registration of hypotheses/research questions, research designs, data collection, and/or analyses prior to collecting or analysing the data. Registered reports are a new publication format whereby researchers submit their planned hypotheses/research questions, design, and analyses for peer review prior to data collection. Following peer review, journals may conditionally accept a paper regardless of the results if the authors follow through with the planned study. During the roundtable, experts will be invited to share their perspectives on these practices, as well as offer tips and guidance for researchers interested in adopting these practices. Stijn Ruiter (NSCR) will share his expertise on pre-registration, and Sandy Schumann (UCL) will share her expertise on registered reports. The roundtable is open to anyone who is interested in learning more about pre-registration and registered reports, as well as those with experience who would like to contribute to the discussion about implementing these in practice. This roundtable is organised by the European Network for Open Criminology. Chair: [Amy Nivette](https://anivet.netlify.app/), Utrecht University. Discussants: [Sandy Schumann](https://sandyschumann.github.io/), University College London; and [Stijn Ruiter](https://nscr.nl/en/medewerker/prof-dr-stijn-ruiter/#onderzoeksgebieden), NSCR.
+
+
+**4. Panel ‘Open Science in Criminology’**
+
+*Friday, September 13, 5:00 to 6:15pm, Faculty of Law, University of Bucharest, Floor: Ground floor, Room 1.04*
+
+Open science in criminology promotes integrity, collaboration, innovation, and societal impact, contributing to a more rigorous and inclusive approach to understanding and addressing crime-related phenomena. This panel presents reflections on advances and challenges related to open access, open data and open research partnerships with the goal to inspire the broader adaptation of open science principles within the discipline.
+Chair: Katharina Krüsselmann, Leiden University
+Presentations:
+- Co-creating a national open research partnership in criminal justice: restorative and design approaches. [Ian Marder](https://www.maynoothuniversity.ie/people/ian-marder), Maynooth University; and Patrice McCormack, Maynooth University
+- How open is criminological research? A study of Open Access practices. [Matt Ashby](https://lesscrime.info/), UCL
+- Open Access Hubs: An Exploratory Study on Their Barriers and Enablers. Jessie Sheppard, University of Manchester; and [David Buil-Gil](https://builgil.com/), University of Manchester
+- Open data in criminology: A case for synthetic data generation. [Katharina Krüsselmann](https://www.universiteitleiden.nl/en/staffmembers/katharina-krusselmann#tab-1), Leiden University; [Marcel Haas](https://marcelhaas.com/), Leiden University; [Marco Spruit](https://marcospruit.nl/), Leiden University; [Marieke Liem](https://www.violence-lab.eu/teams/marieke-liem/), Leiden University
+
+We look forward to seeing you in Romania and advancing open research together!
