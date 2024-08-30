@@ -59,6 +59,7 @@ ENOC is a group of researchers from 13 different European countries, including:
 * [David Buil Gil](https://builgil.com/), The University of Manchester, UK
 * [Leticia Couto](https://www.hull.ac.uk/staff-directory/leticia-couto), University of Hull, UK
 * [Linda Geven](https://www.lindageven.com/), Leiden University, Netherlands
+* [Sebastian L. Kübel](https://csl.mpg.de/en/sebastian-kuebel.html), Max Planck Institute for the Study of Crime, Security and Law, Germany
 * [Kuralarasan Kumar](https://ircp.ugent.be/researchers/kuralarasan-kumar-2/), Ghent University, Belgium
 * [Charles Lanfear](https://clanfear.github.io), University of Cambridge, UK
 * [Samuel Langton](https://www.samlangton.info/), Netherlands Institute for the Study of Crime and Law Enforcement, Netherlands
