@@ -7,6 +7,8 @@ description: "Prof Iain Brennan delivers 'open criminology' workshop"
 
 This year’s **[British Society of Criminology](https://www.britsoccrim.org/) conference** was hosted at the University of Strathclyde’s campus in Glasgow, Scotland between 9th and 12th July. The conference opened with a one-day postgraduate researcher event that was attended by more than 80 researchers, which reflects the vibrancy of postgraduate research in criminology in the UK. 
 
+![](BSC_logo.png)
+
 The opening workshop for the event was delivered by ENOC co-chair, [Prof Iain Brennan](https://www.hull.ac.uk/staff-directory/iain-brennan), titled **‘Open Criminology’**. In this session, Iain discussed many of the reasons why greater transparency would benefit the quality and integrity of research findings. He then introduced **open research as a set of practices, including pre-registration, open data and open access that criminology researchers can adopt**. He also emphasised how changes to the terms of funding agreements will soon make engagement with open research practices a mainstream activity. The workshop was followed by a lively discussion of what ‘openness’ means for criminology and for individual research projects, particularly with regard to making sensitive qualitative and quantitative data ‘open’ and within the parameters of postgraduate projects.
 
 Reflecting on the workshop, Iain noted: _"As the open research lead for my university, I introduce researchers from all sorts of disciplines to the concept of open research. It was wonderful to be able to discuss it in the context of my own discipline."_
