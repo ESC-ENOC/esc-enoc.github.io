@@ -70,6 +70,7 @@ ENOC is a group of researchers from 13 different European countries, including:
 * [Jose Pina-Sánchez](https://essl.leeds.ac.uk/law/staff/222/dr-jose-pina-sanchez), University of Leeds, UK
 * [Martí Rovira](https://martirovira.com/), Universitat Pompeu Fabra, Spain
 * [Stijn Ruiter](https://www.uu.nl/staff/SRuiter), Netherlands Institute for the Study of Crime and Law Enforcement and Utrecht University, Netherlands
+* [Torbjørn Skardhamar](https://www.sv.uio.no/iss/english/people/aca/torbskar/index.html), University of Oslo, Norway
 * [Alex Trinidad](https://www.alexandertrinidad.com/), University of Cologne, Germany
 * [Ferhat Tura](https://staffprofiles.bournemouth.ac.uk/display/ftura), Bournemouth University, UK
 * [Isabelle van der Vegt](https://isabellevdv.net/), Utrecht University, Netherlands
