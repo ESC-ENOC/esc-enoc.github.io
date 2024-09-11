@@ -35,6 +35,13 @@ div.column {
   line-height: 0.9;
 }
 
+.mega-size {
+  color: #555025;
+  font-size: 300%;
+  font-weight: normal;
+  line-height: 0.9;
+}
+
 .home-page-feature, .home-page-news {
   margin-top: 3em;
 }
