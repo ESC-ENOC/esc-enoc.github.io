@@ -50,7 +50,7 @@ University of Hull
 
 ## Open Criminology Outreach
 
-We have created a register of researchers willing to deliver presentations on open criminology. If you would like to host a session on open criminology at a at departmental or institutional meetings, please get in contact with:
+We have created a register of researchers willing to deliver presentations on open criminology. If you would like to host a session on open criminology at a departmental or institutional meeting, please get in contact with:
 
 * [Iain Brennan](https://www.hull.ac.uk/staff-directory/iain-brennan), University of Hull, UK
 * [Charles Lanfear](https://clanfear.github.io), University of Cambridge, UK
@@ -91,6 +91,6 @@ ENOC is a group of researchers from 13 different European countries, including:
 
 You can read our official [Terms of Reference](./terms-of-reference.html) as a working group of the European Society of Criminology.
 
-You can find the minutes of our open meetings below:
+You can find the minutes of our annual open meetings below:
 
 * [6th September 2023, Florence, Italy](minutes_2023_finished.pdf)
