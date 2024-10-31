@@ -1,16 +1,5 @@
 [
   {
-    "listing": "/news/index.html",
-    "items": [
-      "/news/bsc-event.html",
-      "/news/data-sharing-webinar-recording.html",
-      "/news/data-sharing-webinar.html",
-      "/news/esc-newsletter.html",
-      "/news/eurocrim2024.html",
-      "/news/open-science-criminology-workshop.html"
-    ]
-  },
-  {
     "listing": "/how-to/index.html",
     "items": [
       "/how-to/registered reports.html",
@@ -21,12 +10,25 @@
   {
     "listing": "/index.html",
     "items": [
+      "/news/open-dataset-ireland.html",
       "/news/bsc-event.html",
       "/news/eurocrim2024.html",
       "/news/open-science-criminology-workshop.html",
       "/news/esc-newsletter.html",
       "/news/data-sharing-webinar-recording.html",
       "/news/data-sharing-webinar.html"
+    ]
+  },
+  {
+    "listing": "/news/index.html",
+    "items": [
+      "/news/bsc-event.html",
+      "/news/data-sharing-webinar-recording.html",
+      "/news/data-sharing-webinar.html",
+      "/news/esc-newsletter.html",
+      "/news/eurocrim2024.html",
+      "/news/open-dataset-ireland.html",
+      "/news/open-science-criminology-workshop.html"
     ]
   }
 ]
