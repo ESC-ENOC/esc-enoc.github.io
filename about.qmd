@@ -31,7 +31,7 @@ Utrecht University
 
 ![](david-buil-gil.jpg){.image-border}
 
-Dr [**David Buil Gil**](https://builgil.com/)<br>
+Dr [**David Buil-Gil**](https://builgil.com/)<br>
 University of Manchester
 
 :::
@@ -67,7 +67,8 @@ ENOC is a group of researchers from 13 different European countries, including:
 * [Wim Bernasco](https://wimbernascoweb.netlify.app/), Netherlands Institute for the Study of Crime and Law Enforcement, Netherlands
 * [Iain Brennan](https://www.hull.ac.uk/staff-directory/iain-brennan), University of Hull, UK
 * [Lucia Brisudová](https://geography.upol.cz/lucia-brisudova-en), Palacký University Olomouc, Czech Republic 
-* [David Buil Gil](https://builgil.com/), The University of Manchester, UK
+* [David Buil-Gil](https://builgil.com/), The University of Manchester, UK
+* [Francisco J. Castro Toledo](https://www.plusethics.com/about-us/francisco-javier/), Plus Ethics and PARADIGMA Innovation, Spain
 * [Leticia Couto](https://www.hull.ac.uk/staff-directory/leticia-couto), University of Hull, UK
 * [Linda Geven](https://www.lindageven.com/), Leiden University, Netherlands
 * [Sebastian L. Kübel](https://csl.mpg.de/en/sebastian-kuebel.html), Max Planck Institute for the Study of Crime, Security and Law, Germany
