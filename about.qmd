@@ -70,6 +70,7 @@ ENOC is a group of researchers from 13 different European countries, including:
 * [David Buil-Gil](https://builgil.com/), The University of Manchester, UK
 * [Francisco J. Castro Toledo](https://www.plusethics.com/about-us/francisco-javier/), Plus Ethics and PARADIGMA Innovation, Spain
 * [Leticia Couto](https://www.hull.ac.uk/staff-directory/leticia-couto), University of Hull, UK
+* [Jakob Demant](https://research.ku.dk/search/result/profile/?id=42364), University of Copenhagen, Denmark
 * [Linda Geven](https://www.lindageven.com/), Leiden University, Netherlands
 * [Sebastian L. Kübel](https://csl.mpg.de/en/sebastian-kuebel.html), Max Planck Institute for the Study of Crime, Security and Law, Germany
 * [Kuralarasan Kumar](https://ircp.ugent.be/researchers/kuralarasan-kumar-2/), Ghent University, Belgium
