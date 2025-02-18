@@ -75,7 +75,7 @@ ENOC is a group of researchers from 13 different European countries, including:
 * [Sebastian L. Kübel](https://csl.mpg.de/en/sebastian-kuebel.html), Max Planck Institute for the Study of Crime, Security and Law, Germany
 * [Kuralarasan Kumar](https://ircp.ugent.be/researchers/kuralarasan-kumar-2/), Ghent University, Belgium
 * [Charles Lanfear](https://clanfear.github.io), University of Cambridge, UK
-* [Samuel Langton](https://www.samlangton.info/), Netherlands Institute for the Study of Crime and Law Enforcement, Netherlands
+* [Samuel Langton](https://www.samlangton.info/), Amsterdam UMC, Netherlands
 * [Carly Lightowlers](https://www.liverpool.ac.uk/sociology-social-policy-and-criminology/staff/carly-lightowlers/), University of Liverpool, UK
 * [Ian Marder](https://www.maynoothuniversity.ie/people/ian-marder/), Maynooth University, Ireland
 * [Asier Moneva](https://asiermoneva.com/), Netherlands Institute for the Study of Crime and Law Enforcement and The Hague University of Applied Sciences, Netherlands
