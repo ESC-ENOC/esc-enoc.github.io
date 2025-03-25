@@ -1,0 +1,87 @@
+---
+title: Open Criminology Award
+date: 25 March 2025
+description: >
+  This document describes the terms of reference of the Open Criminology Award of the European Network for Open Criminology (ENOC)
+---
+
+
+
+## Purpose of the Award
+
+The Open Criminology Award of the European Network for Open Criminology (ENOC) recognises outstanding efforts in promoting and practicing open research within criminology. This annual award aims to highlight and reward individuals or groups who have made significant contributions to enhancing transparency, reproducibility, integrity, accessibility, and collaboration in criminological research across Europe.
+
+UNESCO’s definition of open science refers to _“movements and practices aiming to make multilingual scientific knowledge openly available, accessible and reusable for everyone, to increase scientific collaborations and sharing of information for the benefits of science and society, and to open the processes of scientific knowledge creation, evaluation and communication to societal actors beyond the traditional scientific community”._
+
+
+
+## Eligibility Criteria
+
+The award is open to researchers at all career stages, including early-career scholars, established academics, and research teams.
+
+Nominees must have demonstrated a substantial commitment to open research principles, such as data sharing, reproducibility, pre-registrations, open software, or open-access publishing. Open educational resources may be considered as part of this commitment.
+
+Contributions should be directly related to criminology and must have had a demonstrable impact on the academic community and/or society.
+
+Self-nominations and nominations by third parties are both accepted.
+
+Nominees do not need to be affiliated with ENOC. Members of the ENOC Award Committee cannot be nominated for the award.
+
+
+
+## Award Criteria
+
+Nominations will be evaluated based on the following criteria:
+
+**Commitment to Open Research:** Clear and sustained efforts to promote open research practices relative to career stage.
+
+**Impact and Reach:** Evidence of how the work has influenced criminological research, policy, practice, or public engagement.
+
+**Innovation:** Novel approaches to openness and transparency in criminology.
+
+**Collaboration and Inclusivity:** Efforts to foster interdisciplinary and international cooperation, as well as engagement with diverse communities.
+
+Nominations must explicitly describe the nominee's contribution to each criterion; however, equal contribution across all criteria is not required.
+
+ENOC reserves the right not to make the award if the Award Committee considers that no nomination is of sufficient merit to warrant the award.
+
+
+
+## Nomination Process
+
+Nominations must be submitted via email to David Buil-Gil, email: _david.builgil@manchester.ac.uk_. Deadline: 1st July 2025.
+
+Each nomination should include:
+
+- Details of the person or being nominated, including name(s), affiliation(s), and contact details.
+- A statement (max 600 words) detailing the nominee’s contributions to open research and how this meets the award criteria.
+- Supporting materials (e.g., publications, datasets, outreach initiatives).
+
+The call for nominations will be announced annually, with a submission deadline set at least three weeks before the Annual Meeting of the ESC.
+
+
+
+## Selection Process
+
+The ENOC Award Committee will be composed of three members, including the acting ENOC co-chairs at the time of the submission, and additional members appointed by the co-chairs if needed. Members of the ENOC Award Committee cannot be nominated for the award.
+
+Shortlisted candidates may be asked to provide additional materials.
+
+The winner will be selected by consensus or majority vote within the Committee.
+
+
+
+## Award Presentation
+
+The winner will be announced at the ENOC Annual Meeting, which will be held as a separate session within the ESC Annual Meeting.
+
+The recipient will receive a certificate, and an opportunity to present their work in the ENOC website.
+
+
+
+## Administration and Contact
+
+The award is administered by ENOC, under the European Society of Criminology (ESC).
+
+For inquiries, please contact David Buil-Gil, email: _david.builgil@manchester.ac.uk_.
+
