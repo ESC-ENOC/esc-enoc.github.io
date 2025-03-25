@@ -91,6 +91,13 @@ ENOC is a group of researchers from 13 different European countries, including:
 * [Yuji Zocatelli Hashimoto](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1121042&LanCode=8), University of Lausanne, Switzerland
 
 
+## Open Criminology Award
+
+ENOC annually presents the _Open Criminology Award_ to recognise outstanding efforts in promoting and practising open research within criminology. This award honours individuals or groups who have made significant contributions to enhancing transparency, reproducibility, integrity, accessibility, and collaboration in criminological research across Europe.
+
+You can read the [Terms of Reference of the Award](./open-crim-award.html).
+
+
 ## More about us
 
 You can read our official [Terms of Reference](./terms-of-reference.html) as a working group of the European Society of Criminology.
