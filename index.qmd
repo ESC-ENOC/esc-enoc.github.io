@@ -30,6 +30,7 @@ Boost your research by:
 
 * {{< fa arrow-right-long >}} making sure the world can read your work with [**open access**](how-to/open-access.html)
 * {{< fa arrow-right-long >}} advancing the standard model of publishing with [**registered reports**](how-to/registered%20reports.html)
+* {{< fa arrow-right-long >}} rethinking replication and data sharing in [**qualitative research**](how-to/open-qualitative-criminology.html)
 * {{< fa arrow-right-long >}} establishing partnerships for [**interdisciplinary open research**](how-to/open-partnership.html)
 :::
 
