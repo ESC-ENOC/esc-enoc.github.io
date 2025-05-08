@@ -1,5 +1,14 @@
 [
   {
+    "listing": "/how-to/index.html",
+    "items": [
+      "/how-to/registered reports.html",
+      "/how-to/open-partnership.html",
+      "/how-to/open-access.html",
+      "/how-to/open-qualitative-criminology.html"
+    ]
+  },
+  {
     "listing": "/news/index.html",
     "items": [
       "/news/bsc-event.html",
@@ -9,14 +18,6 @@
       "/news/eurocrim2024.html",
       "/news/open-dataset-ireland.html",
       "/news/open-science-criminology-workshop.html"
-    ]
-  },
-  {
-    "listing": "/how-to/index.html",
-    "items": [
-      "/how-to/registered reports.html",
-      "/how-to/open-partnership.html",
-      "/how-to/open-access.html"
     ]
   },
   {
