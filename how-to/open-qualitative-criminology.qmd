@@ -1,0 +1,100 @@
+---
+title: Reimagining Replication - Open Science in Qualitative Criminology
+author: "[Prof Jakob Demant](https://www.sociology.ku.dk/staff/professor-and-associate-professor/?pure=en/persons/42364), Department of Sociology, University of Copenhagen"
+description: >
+  Find out how to rethink replication and ethical data sharing in qualitative criminology.
+---
+
+
+_“The more sensitive the population, the greater its need for transparency and replications.”_
+
+The call for transparency in social science research has never been louder. With the growing momentum of the Open Research (OR) movement, questions of replicability, data sharing, and research integrity have permeated sociology, criminology and related social sciences. Yet qualitative researchers within these sciences remain on the periphery of this dialogue—at once intrigued and hesitant about how to be open within this galloping discussion.
+
+Why? Because qualitative work is immersed in context, trust, and interpretative nuance. And because—ironically—the more vulnerable the population we study, the more ethically complicated open data becomes. But avoiding the OR conversation is no longer viable. Instead, *it’s time we reshape it.*
+
+
+
+**A Crisis of Trust, A Call for Openness**
+
+Questionable research practices (QRPs)—cherry-picking, selective reporting, insufficient documentation—have shaken the social sciences, from psychology to criminology. While quantitative research has seen growing uptake of OR practices (e.g., data repositories, preregistration), qualitative methods have largely remained silent.
+
+This isn’t due to a lack of concern about rigor. On the contrary, *qualitative researchers frequently stress data richness, methodological clarity, and ethical care*. These processes of quality in qualitative methods are as such both directed to provide rigor in research as much as to strengthen trust within our qualitative studies in general. But OR frameworks, often built for statistical models and hypothesis testing, seem ill-suited or even incompatible for ethnography, in-depth interviews, and other naturalistic fieldwork. The discussion of OR is as such associated with positivism – and becomes embedded into a discussion of philosophy of science, where qualitative researchers by enlarge have been skeptical towards the positions taken within quantitative methods. 
+
+Yet the need for trust—in methods, findings, and researchers—is as essential in qualitative work as anywhere else. Trust is something we gain. Therefore trust is related to the quality of our work. But it is not necessary that we will gain it. OR is a process of signaling our rigor of our work – and in that way a more direct strategic  way of building trust. 
+
+I argue that rather than sidestep OR, qualitative criminologists and sociologists must reconfigure it in ways that uphold rigor *and* respect research ethics. My sense is that while the scientific society may still be dominated (in numbers) by studies based on numbers, there is a general trust in solid qualitative studies within the disciplines of criminology and sociology. But we do at occasions have discussions of the trustfulness of central works. Further, if we, as qualitative researchers in Criminology and Sociology, do engage with open data sharing we may also stand on a better ground when being pushed back by sceptics within the broader society (e.g., the political system) that seems more eager to criticize knowledge based on qualitative studies based upon self representation in in-depth interviews or researchers’ observations than upon quantitative studies. 
+
+
+
+**The Ethics-Openness Paradox**
+
+But why is the decision upon jumping unto the wagon of OR not just as straight forward? This is because open data is not merely a balance between control over data and openness in qualitative research. Within qualitative research this balance is rather a paradoxical position that can be framed as: the more ethically sensitive the data, the greater the resistance to opening it—but also, paradoxically, the greater the potential for gain from doing so.
+
+My research on online drug markets in the Nordic countries is a case in point. Interview data with sellers and buyers were anonymized and shared in an [Open Science repository](https://osf.io/rdvmh/?view_only=2967701131814245822388869a8ea213). In this dataset, ethnographic materials, however, remained closed due to ethical concerns around covert observation and visual identifiers. Ethnographic digital data is available in other of my projects, where we made use of the Open Source tool, [Manuscrape.org](https://manuscrape.org/), to collect and store anonymous data (e.g., [data on a study of illicit trades on Snapchat](https://osf.io/8nxta/)). Especially the interview based study on drug dealers depends on context. The same context that provides the quality of qualitative data also becomes the Achilles' heel for sharing the data. I argue that sharing open qualitative data stands in a paradoxical position to the very nature of the qualitative aspect of the data. 
+
+The paradox is given as *we depend upon context in qual data*:
+
+*	If we share the context we also de-anonymize the participants.
+*	We breach the bond between the researcher that will sit upon a lot of contextual data. Another researcher that has not collected data does not have that bound to the participants on the study. 
+*	In the data mentioned, I interviewed drug dealers; while both morally and legally questionable their actions are. The trust between researcher and participants is necessary if studies are to be made. I need to make sure that they trust that I take care of data in ways where person identifiable data will both not be breached, but also that my more general – Chicago school informed – perspective if being true to the perceptions and meanings of the participants stands. Further, the data should not be used instrumentally by law enforcement, especially since participants have not consented to such use.
+
+This real-world example illustrates the balance between OR demands and qualitative research: between transparency and participant protection; between scientific openness and fieldwork trust. Still, I not only advocate that qualitative researchers should move towards open data, but also that we should try to re-imagine how we can make constructive use of replications. My argument is based on the idea that qualitative data is often highly sensitive, making participants understandably reluctant to share it; therefore, they should be asked for as little as possible. But also, that thinking openly about replications may provide new and more complete understanding of specific vulnerable or  hard-to-reach groups within society. 
+
+
+
+**Three Pathways to Qualitative Replication**
+
+Drawing on [Freese and Peterson’s (2017) taxonomy of replication](https://www.annualreviews.org/content/journals/10.1146/annurev-soc-060116-053450), I suggest to expand our understanding more traditionally (quant) “narrow replications” and fact-checking replication (both outlined very well by Freese and Peterson) with a novel proposal: the replication of complementarity. All three replication types could be relevant for qualitative research – in different ways for variously types of studies:
+
+*	*1. Narrow Replications*:
+These test the robustness of a study’s findings by applying the same analytic frameworks to the original data. If done transparently, they allow others to confirm the logic and interpretations without breaching participant trust.
+
+* *2. Fact-Checking Replications*:
+Involves returning to original sites or participants to verify data accuracy. This can bolster trust but is ethically complicated, particularly in hidden or criminalized populations where recontacting participants might cause harm or break confidentiality. 
+
+* *3. Complementarity Replications (Demant’s key proposal)*:
+These go beyond validation. They ask new questions of existing data, exploring untapped insights or applying fresh theoretical lenses. The goal isn’t to confirm findings—it’s to enrich them, making fuller use of rich qualitative datasets and minimizing future research intrusion into sensitive groups.
+
+
+
+**A Democratic Ethic of Data Use**
+
+By conceptualizing replications of complementarity, I suggest to open the door to an OR model that’s more inclusive of qualitative epistemologies. This model:
+
+*	Supports critical, cumulative inquiry.
+*	Respects the ethics of care in vulnerable populations.
+*	Enhances the social utility of rich but underused datasets.
+
+In an era of public skepticism toward science, *the credibility of qualitative criminology depends not just on how we collect data, but on how we share, revisit, and rethink it*.
+
+
+
+**What to Consider Before Sharing Your Qualitative Data**
+
+Sharing qualitative data in an Open Science framework requires more than uploading transcripts to a repository. It demands careful, context-sensitive planning—especially when working with sensitive or hard-to-reach populations. My key considerations are:
+
+* *Anonymization is not automatic.* Qualitative data often contain rich, identifying details—about workplaces, neighborhoods, or social relationships—that are hard to strip without losing interpretive value. Complete anonymization must be thorough, iterative, and may require both manual and AI-assisted review.
+
+*	*Ethics begin at the design stage.* Decide early whether data can be shared, and if so, how. Consent forms should clearly state whether future sharing is intended—and in what form (e.g., restricted, invitation-only, public).
+
+*	*Context matters as much as content.* Sharing should include documentation: interview guides, coding schemes, field protocols, and ethical approvals. This not only aids transparency but ensures meaningful reanalysis.
+
+* *Levels of openness can vary.* Full data sharing may not always be possible or ethical. Options like invitation-only links, redacted excerpts, or coded summaries can balance openness with participant protection.
+
+*	*Trust is foundational.* Particularly in research involving illicit or marginalized groups, the trust built during data collection should not be undermined by careless sharing. OR is not a one-size-fits-all model—it must be discussed in relation to ethical aspects of research. As open as possible – as close as necessary.
+
+Open Research doesn’t mean indiscriminately uploading all field notes and transcripts. Instead, I call for structured, ethical OR practices, such as invitation-only repositories for sensitive data, clear metadata and context documentation (e.g., interview guides, recruitment methods), partial or coded data sharing, when full anonymization is impossible.
+
+Importantly, the OR conversation should begin at the project design stage, not after data collection. Consent processes, storage strategies, and anonymization protocols must align with both GDPR and ethical best practices.
+
+These considerations highlight that qualitative Open Science is a craft, not a checkbox. Responsible data sharing respects both the integrity of the research and the dignity of those who made it possible.
+
+
+
+**Final Thoughts: Toward an Open Criminology**
+
+OR need not flatten the diversity of qualitative research. If anything, it can enhance it—by embracing transparency not as an imposition, but as an ethically attuned framework for collaboration.
+
+The challenge isn’t whether we should replicate in qualitative sociology and criminology—it’s how we redefine replication itself. And in this way I would like to return to my title; we should consider how, in what ways and when we should pursue replication. And *if we do so with care, complementarity, and courage, OR may not only serve scientific rigor but also strengthen our commitments to those we study.*
+
+
