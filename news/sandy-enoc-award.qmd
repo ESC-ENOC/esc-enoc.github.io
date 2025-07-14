@@ -1,0 +1,21 @@
+---
+title: "Dr Sandy Schumann, Winner of the First ENOC Open Criminology Award"
+date: 2025-07-14
+description: "Recognised for advancing transparency, collaboration, and open science in criminology"
+---
+
+We are delighted to announce that the inaugural [*Open Criminology Award*](https://esc-enoc.github.io/open-crim-award.html) of the European Network for Open Criminology (ENOC) has been awarded to [**Dr Sandy Schumann**](https://sandyschumann.github.io/), Lecturer in the Department of Security and Crime Science at University College London.
+
+The Open Criminology Award recognises outstanding efforts to promote and practise open research in criminology. Sandy was selected for her *exceptional and sustained contributions to advancing transparency, reproducibility, and collaboration* in the field. The ENOC Award Committee was particularly impressed by Sandy’s pioneering role in fostering a *culture of openness* at a time when few criminologists were engaging with open science.
+
+![Dr Sandy Schumann, winner of the 2025 Open Criminology Award](sandy.png)
+
+In 2018, Sandy founded [**JDI Open**](https://jdiopen.github.io/), an open-science seminar and peer-mentoring group based at the UCL Jill Dando Institute of Security and Crime Science. The group offered bi-weekly sessions for students and staff to explore open science concepts and discuss how to integrate open practices into their research. It shared learning materials publicly and built a supportive community for open research within criminology. JDI Open was one of the first initiatives of its kind in the field and continues to inspire others through its legacy. 
+
+She continues to lead by example as co-lead of University College London’s chapter of the [**UK Reproducibility Network (UKRN)**](https://www.ukrn.org/)—a national peer-led consortium that aims to improve research quality and transparency across disciplines through training, institutional change, and community engagement.
+
+Beyond her contributions to meta-research, Sandy’s interdisciplinary work explores the intersection of media, communication, and extremism, and she actively translates her research into policy and practice through collaborations with governments and civil society. Sandy embraces a wide range of open research practices, including *preregistration and registered reports, data and code sharing, and preprinting*. Her work exemplifies how open research can enhance both academic quality and societal impact.
+
+The Award Committee commented that Sandy *“exemplifies the crucial role of early career researchers in driving forward the open research agenda. In doing so, she has been an inspiration for many researchers working to improve transparency in criminology and beyond.”*
+
+We warmly congratulate Dr Sandy Schumann on this well-deserved recognition and thank her for her contributions to a more open and collaborative criminological community.
