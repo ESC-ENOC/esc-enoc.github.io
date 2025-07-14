@@ -1,75 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://ESC-ENOC.github.io/esc-enoc.github.io/about.html</loc>
-    <lastmod>2025-05-08T15:25:24.611Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ESC-ENOC.github.io/esc-enoc.github.io/join.html</loc>
-    <lastmod>2025-05-08T15:25:24.616Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ESC-ENOC.github.io/esc-enoc.github.io/news/data-sharing-webinar-recording.html</loc>
-    <lastmod>2025-05-08T15:25:24.645Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ESC-ENOC.github.io/esc-enoc.github.io/news/eurocrim2024.html</loc>
-    <lastmod>2025-05-08T15:25:24.645Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ESC-ENOC.github.io/esc-enoc.github.io/news/open-science-criminology-workshop.html</loc>
-    <lastmod>2025-05-08T15:25:24.646Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ESC-ENOC.github.io/esc-enoc.github.io/news/bsc-event.html</loc>
-    <lastmod>2025-05-08T15:25:24.645Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ESC-ENOC.github.io/esc-enoc.github.io/how-to/index.html</loc>
-    <lastmod>2025-05-08T15:25:24.614Z</lastmod>
-  </url>
-  <url>
     <loc>https://ESC-ENOC.github.io/esc-enoc.github.io/how-to/open-qualitative-criminology.html</loc>
-    <lastmod>2025-05-08T15:25:24.614Z</lastmod>
+    <lastmod>2025-07-14T14:32:41.526Z</lastmod>
   </url>
   <url>
     <loc>https://ESC-ENOC.github.io/esc-enoc.github.io/how-to/open-access.html</loc>
-    <lastmod>2025-05-08T15:25:24.614Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ESC-ENOC.github.io/esc-enoc.github.io/open-crim-award.html</loc>
-    <lastmod>2025-05-08T15:25:24.646Z</lastmod>
+    <lastmod>2025-07-14T14:32:41.526Z</lastmod>
   </url>
   <url>
     <loc>https://ESC-ENOC.github.io/esc-enoc.github.io/how-to/open-partnership.html</loc>
-    <lastmod>2025-05-08T15:25:24.614Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ESC-ENOC.github.io/esc-enoc.github.io/how-to/registered reports.html</loc>
-    <lastmod>2025-05-08T15:25:24.614Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ESC-ENOC.github.io/esc-enoc.github.io/terms-of-reference.html</loc>
-    <lastmod>2025-05-08T15:25:24.656Z</lastmod>
+    <lastmod>2025-07-14T14:32:41.526Z</lastmod>
   </url>
   <url>
     <loc>https://ESC-ENOC.github.io/esc-enoc.github.io/news/data-sharing-webinar.html</loc>
-    <lastmod>2025-05-08T15:25:24.645Z</lastmod>
+    <lastmod>2025-07-14T14:32:41.557Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ESC-ENOC.github.io/esc-enoc.github.io/news/open-science-criminology-workshop.html</loc>
+    <lastmod>2025-07-14T14:32:41.558Z</lastmod>
   </url>
   <url>
     <loc>https://ESC-ENOC.github.io/esc-enoc.github.io/news/esc-newsletter.html</loc>
-    <lastmod>2025-05-08T15:25:24.645Z</lastmod>
+    <lastmod>2025-07-14T14:32:41.557Z</lastmod>
   </url>
   <url>
-    <loc>https://ESC-ENOC.github.io/esc-enoc.github.io/news/open-dataset-ireland.html</loc>
-    <lastmod>2025-05-08T15:25:24.646Z</lastmod>
+    <loc>https://ESC-ENOC.github.io/esc-enoc.github.io/news/eurocrim2024.html</loc>
+    <lastmod>2025-07-14T14:32:41.557Z</lastmod>
   </url>
   <url>
-    <loc>https://ESC-ENOC.github.io/esc-enoc.github.io/news/index.html</loc>
-    <lastmod>2025-05-08T15:25:24.645Z</lastmod>
+    <loc>https://ESC-ENOC.github.io/esc-enoc.github.io/open-crim-award.html</loc>
+    <lastmod>2025-07-14T14:32:41.577Z</lastmod>
   </url>
   <url>
     <loc>https://ESC-ENOC.github.io/esc-enoc.github.io/index.html</loc>
-    <lastmod>2025-05-08T15:25:24.616Z</lastmod>
+    <lastmod>2025-07-14T14:32:41.528Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ESC-ENOC.github.io/esc-enoc.github.io/terms-of-reference.html</loc>
+    <lastmod>2025-07-14T14:32:41.578Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ESC-ENOC.github.io/esc-enoc.github.io/about.html</loc>
+    <lastmod>2025-07-14T14:32:41.523Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ESC-ENOC.github.io/esc-enoc.github.io/join.html</loc>
+    <lastmod>2025-07-14T14:32:41.528Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ESC-ENOC.github.io/esc-enoc.github.io/news/open-dataset-ireland.html</loc>
+    <lastmod>2025-07-14T14:32:41.557Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ESC-ENOC.github.io/esc-enoc.github.io/news/index.html</loc>
+    <lastmod>2025-07-14T14:32:41.557Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ESC-ENOC.github.io/esc-enoc.github.io/news/sandy-enoc-award.html</loc>
+    <lastmod>2025-07-14T14:32:41.558Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ESC-ENOC.github.io/esc-enoc.github.io/news/bsc-event.html</loc>
+    <lastmod>2025-07-14T14:32:41.557Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ESC-ENOC.github.io/esc-enoc.github.io/news/data-sharing-webinar-recording.html</loc>
+    <lastmod>2025-07-14T14:32:41.557Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ESC-ENOC.github.io/esc-enoc.github.io/how-to/index.html</loc>
+    <lastmod>2025-07-14T14:32:41.526Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ESC-ENOC.github.io/esc-enoc.github.io/how-to/registered reports.html</loc>
+    <lastmod>2025-07-14T14:32:41.526Z</lastmod>
   </url>
 </urlset>
