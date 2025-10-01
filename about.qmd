@@ -20,32 +20,37 @@ ENOC is lead by three co-chairs.
 
 ::: {.column width="33%"}
 
-![](amy-nivette.jpg){.image-border}
+![](asier-moneva.jpg){.image-border}
 
-Dr [**Amy Nivette**](https://anivet.netlify.app/)<br>
+Dr [**Asier Moneva**](https://asiermoneva.com/)<br>
+Netherlands Institute for the Study of Crime and Law Enforcement<br>
+The Hague University of Applied Sciences
+
+:::
+
+::: {.column width="33%"}
+
+![](alex-trinidad.jpg){.image-border}
+
+Dr [**Alex Trinidad**](https://www.alexandertrinidad.com/)<br>
+University of Cologne
+
+:::
+
+::: {.column width="33%"}
+
+![](isabelle-v-d-vegt.jpg){.image-border}
+
+Dr [**Isabelle van der Vegt**](https://isabellevdv.net/)<br>
 Utrecht University
 
 :::
 
-::: {.column width="33%"}
-
-![](david-buil-gil.jpg){.image-border}
-
-Dr [**David Buil-Gil**](https://builgil.com/)<br>
-University of Manchester
-
-:::
-
-::: {.column width="33%"}
-
-![](iain-brennan.jpg){.image-border}
-
-Prof [**Iain Brennan**](https://www.hull.ac.uk/staff-directory/iain-brennan)<br>
-University of Hull
-
-:::
-
 ::::
+
+## Former Chairs
+
+* **2023-2025:** Dr [**Amy Nivette**](https://anivet.netlify.app/),  Utrecht University; Dr [**David Buil-Gil**](https://builgil.com/), University of Manchester; Prof [**Iain Brennan**](https://www.hull.ac.uk/staff-directory/iain-brennan), University of Hull
 
 
 ## Open Criminology Outreach
