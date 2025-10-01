@@ -1,16 +1,5 @@
 [
   {
-    "listing": "/how-to/index.html",
-    "items": [
-      "/how-to/registered reports.html",
-      "/how-to/open-partnership.html",
-      "/how-to/open-access.html",
-      "/how-to/cost-benefits-open-science.html",
-      "/how-to/open-qualitative-criminology.html",
-      "/how-to/reproducible-analysis-code.html"
-    ]
-  },
-  {
     "listing": "/news/index.html",
     "items": [
       "/news/bsc-event.html",
@@ -21,6 +10,17 @@
       "/news/open-dataset-ireland.html",
       "/news/open-science-criminology-workshop.html",
       "/news/sandy-enoc-award.html"
+    ]
+  },
+  {
+    "listing": "/how-to/index.html",
+    "items": [
+      "/how-to/registered reports.html",
+      "/how-to/open-partnership.html",
+      "/how-to/open-access.html",
+      "/how-to/cost-benefits-open-science.html",
+      "/how-to/open-qualitative-criminology.html",
+      "/how-to/reproducible-analysis-code.html"
     ]
   },
   {
