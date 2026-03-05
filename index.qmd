@@ -14,13 +14,11 @@ listing:
 # Welcome! {.super-size}
 :::
 
-:::
 
-:::
 
 
 :::{.text-center}
-![](logo.png){width=250}
+[![](logo.png){width=250}](about.html)
 :::
 
 
