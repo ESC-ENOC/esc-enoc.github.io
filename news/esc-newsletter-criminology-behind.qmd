@@ -87,7 +87,7 @@ Simonsohn, U., Nelson, L. D., & Simmons, J. P. (2014). P-curve: A key to the fil
 
 Sweeten, G., Topalli, V., Loughran, T., Haynie, D., & Tseloni, A. (2024). Data Transparency at Criminology. The Criminologist, 50, 9-11. https://asc41.org/wp-content/uploads/ASC-Criminologist-2024-01.pdf
 
-## **Endnotes**
+
 
 [^1]: https://www.theverge.com/2013/4/17/4234136/excel-calculation-error-infamous-economic-study
 [^2]: https://www.ft.com/content/9e5107f8-a75c-11e2-9fbe-00144feabdc0
