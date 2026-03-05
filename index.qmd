@@ -10,14 +10,14 @@ listing:
   type: grid
 ---
 
-:::: {.columns}
+:::: 
 
-::: {.column}
+::: 
 # Welcome! {.super-size}
 :::
 
-::: {.column width=150}
-![](logo.png){width=150}
+::: 
+![](logo.png){width=250}
 :::
 
 ::::
