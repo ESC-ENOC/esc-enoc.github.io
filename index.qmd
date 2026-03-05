@@ -24,7 +24,7 @@ listing:
 
 
 
-::: {.home-page-feature .super-size}
+::: {.home-page-feature .mega-size}
 
 Boost your research by:
 
