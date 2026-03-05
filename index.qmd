@@ -16,8 +16,8 @@ listing:
 # Welcome! {.super-size}
 :::
 
-::: {.column width=250}
-![](logo.png){width=250}
+::: {.column width=150}
+![](logo.png){width=150}
 :::
 
 ::::
