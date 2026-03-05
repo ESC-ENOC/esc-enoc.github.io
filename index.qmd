@@ -13,7 +13,7 @@ listing:
 
 # Welcome! {.super-size}
 
-![](logo.png){width=250}
+![](logo.png){fig-align="center" width=250}
 
 
 
