@@ -30,14 +30,14 @@
   {
     "listing": "/news/index.html",
     "items": [
-      "/news/bsc-event.html",
-      "/news/data-sharing-webinar-recording.html",
-      "/news/data-sharing-webinar.html",
-      "/news/esc-newsletter.html",
-      "/news/eurocrim2024.html",
+      "/news/sandy-enoc-award.html",
       "/news/open-dataset-ireland.html",
+      "/news/bsc-event.html",
+      "/news/eurocrim2024.html",
       "/news/open-science-criminology-workshop.html",
-      "/news/sandy-enoc-award.html"
+      "/news/esc-newsletter.html",
+      "/news/data-sharing-webinar-recording.html",
+      "/news/data-sharing-webinar.html"
     ]
   }
 ]
