@@ -9,12 +9,16 @@ listing:
   sort: "date desc"
   type: grid
 ---
-:::
+::::
+
+::: {.text-center}
 # Welcome! {.super-size}
-
-![](logo.png){fig-align="center" width=250}
-
 :::
+
+:::{.text-center}
+![](logo.png){width=250}
+:::
+::::
 
 
 ::: {.home-page-feature}
