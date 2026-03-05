@@ -1,11 +1,8 @@
 [
   {
-    "listing": "/enoc_newsletter/index.html",
-    "items": []
-  },
-  {
-    "listing": "/index.html",
+    "listing": "/news/index.html",
     "items": [
+      "/news/esc-newsletter-criminology-behind.html",
       "/news/sandy-enoc-award.html",
       "/news/open-dataset-ireland.html",
       "/news/bsc-event.html",
@@ -28,8 +25,9 @@
     ]
   },
   {
-    "listing": "/news/index.html",
+    "listing": "/index.html",
     "items": [
+      "/news/esc-newsletter-criminology-behind.html",
       "/news/sandy-enoc-award.html",
       "/news/open-dataset-ireland.html",
       "/news/bsc-event.html",
@@ -39,5 +37,9 @@
       "/news/data-sharing-webinar-recording.html",
       "/news/data-sharing-webinar.html"
     ]
+  },
+  {
+    "listing": "/enoc_newsletter/index.html",
+    "items": []
   }
 ]
