@@ -13,7 +13,7 @@ Over the past decade, there has been a major shift in the Social Sciences toward
 
 Psychology has been paving the way in this development. The background is grim: What is now known as “the replication crisis” was the finding that a range of well-known findings in Psychology did not replicate. Indeed, in an empirical replication of 100 studies published in high-ranking journals, only about one-third to one-half of the original findings were replicated (Open Science Collaboration, 2015). Even worse, it seems that this replication crisis affects not only Psychology but the social sciences more broadly, including Criminology (Pridemore et al., 2018).
 
-##On how transparency increases scientific rigour
+## **On how transparency increases scientific rigour**
 
 Science is supposed to be self-correcting, but the replication crisis raised serious concerns to what extent that was really the case. There are several reasons for this, but one important part has been a culture of a lack of transparency. This has allowed questionable research practices to go unnoticed or remain uncorrected by the scientific community. Practices such as p-hacking or HARKing (Hypothesizing After the Results are Known) are still accepted by some in the community, or at least by a large proportion of participants in the survey on open science and questionable research practices conducted by Chin et al. (2023). Combined with the difficulty/willingness of publishing null results, which reinforces publication bias, this further increases the risk of inflating false positives.
 
@@ -29,13 +29,13 @@ For instance, qualitative data is harder to share because complete anonymisation
 
 There are many public repositories in which authors can make their research materials open. Some of these are owned by non-profit organisations, like the Center for Open Science and its Open Science Framework (OSF, https://osf.io/), or for-profit companies like GitHub (https://github.com/) and its public repositories. The authors’ experience in practising open science may change depending on which infrastructure they use, but “free” options to share data and code abound.
 
-##On how pre-registration increases scientific rigour
+## **On how pre-registration increases scientific rigour**
 
 For the sake of transparency and clarity, authors could make explicit what type of research question their study addresses. This not only helps readers to better assess the results but also enables policymakers to evaluate the type and strength of the evidence. In the case of confirmatory research, authors could pre-register their research questions, the hypotheses they intend to test, and the research design they plan to use to test those hypotheses. As Lakens (2019, p. 1) puts it, “preregistration has the goal to allow others to transparently evaluate the capacity of a test to falsify a prediction, or the severity of a test”. In this way, preregistration helps prevent HARKing, ensuring a clearer distinction between confirmatory and exploratory analyses. To encourage this practice, Criminology journals could begin accepting registered reports and adopting in-principle acceptance (IPA) policies.[^7] Of course, there is some degree of flexibility when it comes to deviating from pre-registrations, and, as long as such deviations are well justified and properly documented, they should not undermine the validity of the research findings. In the case of non-confirmatory studies, researchers could instead publish pre-analysis plans outlining the study’s objectives and their prior knowledge of the data as a transparency measure, which would limit the researchers’ degrees of freedom for post-hoc analyses.
 
 Pre-registration and registered reports are additional steps that potentially requires more work for both authors and reviewers. Spending additional time might be a hinderance to most researchers. However, most of that is a shift in time in when the work is done. Clarifying the research questions and reasoning for the analytical strategy can be written up ahead of data analyses instead of afterwards. Similarly, reviewers can make qualified judgements on only the research question and design without having to see the results, and quality of writing can be assessed at a later stage.
 
-##Actionable Steps Towards Open Science in our Discipline
+## **Actionable Steps Towards Open Science in our Discipline**
 
 Now, if open science practices increase the rigour and verifiability of criminological research, should the European Society of Criminology (ESC) promote open science? We think so. Here are three suggestions in which the ESC could play an important role in putting our field up to speed:
 
@@ -51,7 +51,7 @@ In this respect, the field of Criminology is lagging behind the related fields o
 
 - The authors are grateful for valuable comments and encouragements from Wim Bernasco, Stijn Ruiter, Amy Nivette, Ferhat Tura, David Bul Gil, and Gian Maria Campedelli
 
-##References
+## **References**
 
 Adema, J., Folke, O., & Rickne, J. (2025). Re-Analysis of Ciacci, R. (2024). Banning the purchase of sex increases cases of rape: evidence from Sweden (No. 226). I4R Discussion Paper Series. https://hdl.handle.net/10419/316398
 
@@ -91,13 +91,13 @@ Sweeten, G., Topalli, V., Loughran, T., Haynie, D., & Tseloni, A. (2024). Data T
 
 [^1]: https://www.theverge.com/2013/4/17/4234136/excel-calculation-error-infamous-economic-study
 [^2]: https://www.ft.com/content/9e5107f8-a75c-11e2-9fbe-00144feabdc0
-[^3] https://www.bundestag.de/resource/blob/997220/WD-7-020-24-pdf.pdf
-[^4] https://link.springer.com/article/10.1007/s00148-025-01114-2
-[^5] https://esc-enoc.github.io/how-to/cost-benefits-open-science.html 
-[^6] https://esc-enoc.github.io/how-to/open-qualitative-criminology.html and https://qdr.syr.edu/
-[^7] https://esc-enoc.github.io/how-to/registered%20reports.html
-[^8] https://esc-eurocrim.org/v2/awards/
-[^9] To the extent one is using point-and-click statistical software, one can generate the code. Software like SPSS, Jamovi and BlueSky Statistics can do so.
-[^10] This is the situation in e.g. the ASC Division of Cybercrime.
+[^3]: https://www.bundestag.de/resource/blob/997220/WD-7-020-24-pdf.pdf
+[^4]: https://link.springer.com/article/10.1007/s00148-025-01114-2
+[^5]: https://esc-enoc.github.io/how-to/cost-benefits-open-science.html 
+[^6]: https://esc-enoc.github.io/how-to/open-qualitative-criminology.html and https://qdr.syr.edu/
+[^7]: https://esc-enoc.github.io/how-to/registered%20reports.html
+[^8]: https://esc-eurocrim.org/v2/awards/
+[^9]: To the extent one is using point-and-click statistical software, one can generate the code. Software like SPSS, Jamovi and BlueSky Statistics can do so.
+[^10]: This is the situation in e.g. the ASC Division of Cybercrime.
 
 
