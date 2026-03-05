@@ -10,7 +10,7 @@ listing:
   type: grid
 ---
 
-:::: 
+
 
 ::: 
 # Welcome! {.super-size}
@@ -20,7 +20,7 @@ listing:
 ![](logo.png){width=250}
 :::
 
-::::
+
 
 
 
