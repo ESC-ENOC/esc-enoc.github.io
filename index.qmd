@@ -11,16 +11,9 @@ listing:
 ---
 
 
-
-::: 
 # Welcome! {.super-size}
-:::
 
-::: 
 ![](logo.png){width=250}
-:::
-
-
 
 
 
