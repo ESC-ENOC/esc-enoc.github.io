@@ -13,7 +13,7 @@ listing:
 :::: {.columns}
 
 ::: {.column}
-# Help your **research** have **impact** in the real&nbsp;world {.super-size}
+# Welcome! {.super-size}
 :::
 
 ::: {.column width=250}
