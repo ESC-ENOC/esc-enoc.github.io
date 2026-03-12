@@ -25,7 +25,7 @@ website:
   body-footer: |
     The contents of this website is available for re-use under a
     [Creative Commons Attribution 4.0 International Licence](https://creativecommons.org/licenses/by/4.0/).
-  twitter-card: true
+  twitter-card: false
   open-graph:
     locale: en_GB
     site-name: "European Network for Open Criminology"
