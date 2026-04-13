@@ -1,5 +1,9 @@
 [
   {
+    "listing": "/enoc_newsletter/index.html",
+    "items": []
+  },
+  {
     "listing": "/news/index.html",
     "items": [
       "/news/esc-newsletter-criminology-behind.html",
@@ -37,9 +41,5 @@
       "/news/data-sharing-webinar-recording.html",
       "/news/data-sharing-webinar.html"
     ]
-  },
-  {
-    "listing": "/enoc_newsletter/index.html",
-    "items": []
   }
 ]
