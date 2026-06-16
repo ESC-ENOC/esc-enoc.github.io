@@ -1,0 +1,106 @@
+---
+title: Open Criminology Award
+date: today
+description: "This document describes the terms of reference of the Open Criminology Awards of the European Network for Open Criminology (ENOC)"
+---
+
+## Purpose of the Award
+
+The Open Criminology Award of the European Network for Open Criminology (ENOC) recognises outstanding efforts in promoting and practicing open research within criminology. This annual award aims to highlight and reward individuals who have made significant contributions to enhancing transparency, reproducibility, integrity, accessibility, and collaboration in criminological research across Europe. In the event of a tie in scoring, the award may be shared, with a maximum of three awardees. 
+
+UNESCO’s definition of open science refers to _"movements and practices aiming to make multilingual scientific knowledge openly available, accessible and reusable for everyone, to increase scientific collaborations and sharing of information for the benefits of science and society, and to open the processes of scientific knowledge creation, evaluation and communication to societal actors beyond the traditional scientific community"_.
+
+## Award Categories and Eligibility
+
+Two awards may be granted: 1) Early Career Researcher (ECR) Award, and 2) Established Researcher Award.
+
+- **Early Career Researcher (ECR) Award: NSCR Open Criminology Award for Early Career Researchers**. The award is open to PhD candidates and researchers who are within four years post-PhD at the time of nomination. For eligibility purposes, the official PhD completion date is the date stated on the PhD certificate.
+
+- **Established Researcher Award: MPI-CSL Open Criminology Award for Established Researchers**. The award is open to established scholars who are more than four years post-PhD at the time of nomination, calculated from the official PhD completion date stated on the PhD certificate.
+
+Relative to their career stage, nominees must have demonstrated a substantial commitment to open research principles, such as data sharing, reproducibility, pre-registrations, open software, or open-access publishing. Open educational resources may be considered as part of this commitment. 
+
+Career interruptions (for example parental leave or illness) may be taken into consideration.
+
+Nominees do not need to be affiliated with ENOC. Members of the ENOC Award Committee cannot be nominated for the award.
+
+## Award Criteria
+
+Nominations will be evaluated based on the following criteria:
+
+**Commitment to Open Research:** Clear and sustained efforts to promote open research practices relative to career stage.
+
+**Impact and Reach:** Evidence of how the work has influenced criminological research, policy, practice, or public engagement.
+
+**Innovation:** Novel approaches to openness and transparency in criminology.
+
+**Collaboration and Inclusivity:** Efforts to foster interdisciplinary and international cooperation, as well as engagement with diverse communities.
+
+Nominations must explicitly describe the nominee's contribution to each criterion; however, equal contribution across all criteria is not required.
+
+Contributions should be directly related to criminology and must have had a demonstrable impact on the academic community and/or society. For the established researcher category, candidates should demonstrate a sustained and influential contribution to open criminology over time.
+
+ENOC reserves the right not to make the award if the Award Committee considers that no nomination is of sufficient merit to warrant the award.
+
+## Nominations
+
+Self-nominations are not accepted. ENOC Co-Chairs or members of the ENOC Award Committee cannot nominate or be nominated for the award. Nominations must be submitted by a third party familiar with the nominee's work.
+
+To facilitate a qualitative and focused assessment, nominations must include supporting materials that clearly demonstrate alignment with the award criteria.
+
+- *Early Career Researchers* may submit a maximum of three contributions. 
+- *Established Researchers* may submit a maximum of five contributions.
+
+Eligible contributions may include, but are not limited to:
+- Open data and/or software
+- Registered reports or pre-registrations
+- Documented practices of open peer review
+- Replication studies
+- Leadership in open science initiatives
+
+Each contribution should be briefly contextualised in relation to its relevance to open criminology.
+
+The call for nominations will be announced annually. 
+
+
+Deadline (2026): 16 July 2026
+
+## Application Procedure
+
+To streamline the application process, ENOC will provide an [online form](https://survey.uu.nl/jfe/form/SV_bQxy1Gj3ZRdVFIO). Through this questionnaire, applicants or nominators will be able to:
+
+- Provide contact details of the nominee.
+- Upload the required supporting contributions as separate files or provide a link. 
+
+No additional documentation beyond what is explicitly requested will be considered.
+
+## Selection Committee
+
+The Selection Committee will consist of three members, including acting ENOC co-chair(s) at the time of the submission, one representative of the sponsor or sponsors, and additional members appointed by the co-chairs if needed.
+
+Any conflicts of interest will be carefully identified, assessed, and managed in accordance with [ESC](https://esc-eurocrim.org/v2/constitution-of-the-european-society-of-criminology/) and [ENOC](https://esc-enoc.github.io/terms-of-reference.html) governance principles.
+
+Shortlisted candidates may be asked to provide additional materials.
+
+The winner will be selected by consensus or majority vote within the Selection Committee.
+
+## Award Format and Ceremony
+
+The winner will be announced at the ENOC Annual Meeting, which will be held as a separate session within the ESC Annual Meeting. 
+
+The recipient will receive a certificate, and an opportunity to present their work in the ENOC website.
+
+The awards are sponsored and include a monetary prize. The Early Career Award (sponsored by the [Netherlands Institute for the Study of Crime and Law Enforcement (NSCR)](https://nscr.nl/en/)) carries a prize of €1,500, while the Established Researcher Award (sponsored by the [Max Plank Institute for the Study of Crime, Security and Law (MPI-CSL)](https://csl.mpg.de/en/))[^1] carries a prize of €2,000. In the event of a shared award, the prize amount will be divided equally among the awardees within the corresponding category.
+
+[^1]: The details of the MPI-CSL Open Criminology Award for
+Established Researchers remain subject to final agreement between the MPI-CSL and the ENOC. This call does not create any legal entitlement to the award of the prize or to any associated benefit. The organizers reserve the right to amend the conditions, postpone the award, or cancel the procedure if necessary.
+
+## Administration and Contact
+
+The award is administered by ENOC, under the European Society of Criminology (ESC).
+
+For inquiries, please contact Asier Moneva, email: _AMoneva@nscr.nl_.
+
+## Final Provisions
+
+ENOC reserves the right to amend these terms where necessary to ensure fairness, transparency, and alignment with the aims of the Open Criminology Award. Any such amendments will be communicated publicly in advance of the nomination deadline.
