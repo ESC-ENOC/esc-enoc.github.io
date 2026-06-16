@@ -17,6 +17,9 @@ website:
         text: News
       - href: enoc_newsletter/index.qmd
         text: ENOC Newsletter
+      - href: open-crim-award_v2.qmd
+        text: Open Criminology Award
+        
     right:
       - text: "![](/images/ri--bluesky-fill.svg)"
         href: "https://bsky.app/profile/opencriminology.bsky.social"
