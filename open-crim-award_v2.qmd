@@ -90,7 +90,7 @@ The winner will be announced at the ENOC Annual Meeting, which will be held as a
 
 The recipient will receive a certificate, and an opportunity to present their work in the ENOC website.
 
-The awards are sponsored and include a monetary prize. The Early Career Award (sponsored by the [Netherlands Institute for the Study of Crime and Law Enforcement (NSCR)](https://nscr.nl/en/)) carries a prize of €1,500, while the Established Researcher Award (sponsored by the [Max Plank Institute for the Study of Crime, Security and Law (MPI-CSL)](https://csl.mpg.de/en/))[^1] carries a prize of €2,000. In the event of a shared award, the prize amount will be divided equally among the awardees within the corresponding category.
+The awards are sponsored and include a monetary prize. The Early Career Award (sponsored by the [Netherlands Institute for the Study of Crime and Law Enforcement (NSCR)](https://nscr.nl/en/)) carries a prize of €1,500, while the Established Researcher Award (sponsored by the [Max Planck Institute for the Study of Crime, Security and Law (MPI-CSL)](https://csl.mpg.de/en/))[^1] carries a prize of €2,000. In the event of a shared award, the prize amount will be divided equally among the awardees within the corresponding category.
 
 [^1]: The details of the MPI-CSL Open Criminology Award for
 Established Researchers remain subject to final agreement between the MPI-CSL and the ENOC. This call does not create any legal entitlement to the award of the prize or to any associated benefit. The organizers reserve the right to amend the conditions, postpone the award, or cancel the procedure if necessary.
