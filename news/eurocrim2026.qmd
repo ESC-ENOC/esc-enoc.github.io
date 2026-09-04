@@ -3,7 +3,7 @@ title: "Activities of the European Network for Open Criminology for EUROCRIM2026
 date: today
 description: "Advancing open research at the 26th Annual Conference of the European Society of Criminology"
 ---
-![](esc-enoc.github.io/news/warsawEurocrim.png)
+![](esc-enoc.github.io/news/warsawEurocrim.jpg)
 
 The **European Network for Open Criminology** has organised a series of activities at **[EUROCRIM2026](https://eurocrim2026.com)**, the *26th Annual Conference of the European Society of Criminology*, in Warsaw, Poland.
 
