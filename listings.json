@@ -1,18 +1,18 @@
 [
   {
-    "listing": "/how-to/index.html",
+    "listing": "/index.html",
     "items": [
-      "/how-to/registered reports.html",
-      "/how-to/open-partnership.html",
-      "/how-to/open-access.html",
-      "/how-to/cost-benefits-open-science.html",
-      "/how-to/open-qualitative-criminology.html",
-      "/how-to/reproducible-analysis-code.html"
+      "/news/eurocrim2026.html",
+      "/news/esc-newsletter-criminology-behind.html",
+      "/news/sandy-enoc-award.html",
+      "/news/open-dataset-ireland.html",
+      "/news/bsc-event.html",
+      "/news/eurocrim2024.html",
+      "/news/open-science-criminology-workshop.html",
+      "/news/esc-newsletter.html",
+      "/news/data-sharing-webinar-recording.html",
+      "/news/data-sharing-webinar.html"
     ]
-  },
-  {
-    "listing": "/enoc_newsletter/index.html",
-    "items": []
   },
   {
     "listing": "/news/index.html",
@@ -30,18 +30,18 @@
     ]
   },
   {
-    "listing": "/index.html",
+    "listing": "/how-to/index.html",
     "items": [
-      "/news/eurocrim2026.html",
-      "/news/esc-newsletter-criminology-behind.html",
-      "/news/sandy-enoc-award.html",
-      "/news/open-dataset-ireland.html",
-      "/news/bsc-event.html",
-      "/news/eurocrim2024.html",
-      "/news/open-science-criminology-workshop.html",
-      "/news/esc-newsletter.html",
-      "/news/data-sharing-webinar-recording.html",
-      "/news/data-sharing-webinar.html"
+      "/how-to/registered reports.html",
+      "/how-to/open-partnership.html",
+      "/how-to/open-access.html",
+      "/how-to/cost-benefits-open-science.html",
+      "/how-to/open-qualitative-criminology.html",
+      "/how-to/reproducible-analysis-code.html"
     ]
+  },
+  {
+    "listing": "/enoc_newsletter/index.html",
+    "items": []
   }
 ]
