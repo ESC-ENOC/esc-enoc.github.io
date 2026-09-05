@@ -67,7 +67,7 @@ Deadline (2026): 16 July 2026
 
 ## Application Procedure
 
-To streamline the application process, ENOC will provide an [online form](https://survey.uu.nl/jfe/form/SV_bQxy1Gj3ZRdVFIO). Through this questionnaire, applicants or nominators will be able to:
+To streamline the application process, ENOC will provide an online form. Through this questionnaire, applicants or nominators will be able to:
 
 - Provide contact details of the nominee.
 - Upload the required supporting contributions as separate files or provide a link. 
